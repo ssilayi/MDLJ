@@ -26,5 +26,5 @@ Resulting files and plots and scripts for generating the plots to be found in th
 
 To plot, run scripts as:
 
-gnuplot <script-filename>
+gnuplot script-filename
 
