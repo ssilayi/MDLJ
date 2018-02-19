@@ -1,3 +1,11 @@
+/**
+//  lj.cpp
+//  md_modeling
+//
+//  Created by Swabir Silayi
+//  Copyright © 2018 Swabir Silayi. All rights reserved.
+*/
+
 #include <cmath>
 #include <cstdlib>
 #include <fstream>
